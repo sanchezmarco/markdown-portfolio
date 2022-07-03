@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ # _Backend_
+ 1. *Django*
+ # _Frontend_
+ 1. *Angular*
